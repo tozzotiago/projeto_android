@@ -163,9 +163,10 @@ div.video > iframe {
 }
 aside {
     background-color: var(--cor1);
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.226);
+    
 }
 
 aside > ul {
